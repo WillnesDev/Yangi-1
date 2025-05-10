@@ -1,4 +1,5 @@
 cfg yaratib olish kerak virtual muhit
+
 #Windows
 python -m venv cfg
 cfg\Scripts\activate
