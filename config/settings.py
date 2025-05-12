@@ -1,7 +1,7 @@
 import os
 
 # Bot tokeni
-BOT_TOKEN = "7776240847:AAGDO36LAG6fELo3fRas46aLdXVOFYEtUOo"  # O'z bot tokeningizni kiriting
+BOT_TOKEN = "7599454287:AAGqPyfBp25X9vZ6fP35kkMCMNswkE2uS1w"  # O'z bot tokeningizni kiriting
 #@classmaster95_robot
 
 # Admin ID raqami
