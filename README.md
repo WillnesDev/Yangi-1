@@ -10,6 +10,6 @@ cfg\Scripts\activate
 
 python3 -m venv cfg
 
-source cfg/Scripts/activate
+source cfg/bin/activate
 
 Bu oquv markaz uchun admin panel
